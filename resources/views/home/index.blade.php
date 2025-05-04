@@ -1,0 +1,13 @@
+@extends('fe.master')
+@section('paket-wisata')
+    @include('fe.paket-wisata')
+@endsection
+@section('berita')
+    @include('fe.berita')
+@endsection
+@section('diskon')
+    @include('fe.diskon')
+@endsection
+@section('testimoni')
+    @include('fe.testimoni')
+@endsection
